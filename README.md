@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [E-commerce site](https://hasnainsadid.github.io/E-commerce-site/)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://hasnainsadid.github.io/react_portfolio/](https://hasnainsadid.github.io/react_portfolio/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, ReactJs**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Jquery, PHP, MySQL, Wordpress, Codeigniter, Angular, ReactJs, Laraavel, Vue**
 
 - 📫 How to reach me **hasnainsadid@gmail.com**
 
