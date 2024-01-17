@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hasnainsadid.github.io/react_portfolio/](https://hasnainsadid.github.io/react_portfolio/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Jquery, PHP, MySQL, Wordpress, Codeigniter, Angular, ReactJs, Laraavel, Vue**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Jquery, PHP, MySQL, Wordpress, Codeigniter, Angular, ReactJs, Laravel, Vue**
 
 - 📫 How to reach me **hasnainsadid@gmail.com**
 
