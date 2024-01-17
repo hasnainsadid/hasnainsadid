@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, <br> I'm Hasnain Sadid</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainsadid&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainsadid" /> </p>
 
