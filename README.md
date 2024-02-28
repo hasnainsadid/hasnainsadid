@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainsadid&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainsadid" /> </p>
 
-- 🔭 I’m currently working on [E-commerce site](https://hasnainsadid.github.io/E-commerce-site/)
+- 🔭 I’m currently working on [Hospital Management Project(React & laravel)](https://hms.wdpf55.com/)
 
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://hasnainsadid.github.io/react_portfolio/](https://hasnainsadid.github.io/react_portfolio/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Jquery, PHP, MySQL, Wordpress, Codeigniter, Angular, ReactJs, Laravel, Vue**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, Jquery, PHP, MySQL, WordPress, Codeigniter, Angular, ReactJs, Laravel, Vue**
 
 - 📫 How to reach me **hasnainsadid@gmail.com**
 
