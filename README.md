@@ -5,7 +5,7 @@
 
 <img align="right" width="400" alt="SideImage" src="sadid.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainsadid&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainsadid" width='100%' /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainsadid&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainsadid" /> </p>
 
 - 🔭 I’m currently working on [Hospital Management System (React & Laravel)](https://hms.wdpf55.com/)
 
